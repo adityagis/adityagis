@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Profile banner preview</title>
+<style>
+  body { margin: 0; padding: 24px; font: 14px system-ui, sans-serif; background: #f6f8fa; color: #1f2328; }
+  h2 { font-size: 13px; font-weight: 600; margin: 24px 0 8px; }
+  .dark { background: #0d1117; padding: 16px; border-radius: 8px; }
+  img { display: block; width: 100%; max-width: 1000px; margin: 0 auto; }
+</style>
+</head>
+<body>
+  <!-- Local check for the README images. Serve this folder (python -m http.server) and open preview.html. -->
+  <h2>Light</h2>
+  <img src="assets/banner-light.svg" alt="Light banner">
+  <img src="assets/numbers-light.svg" alt="Light numbers card" style="max-width:880px;margin-top:16px">
+  <h2>Dark</h2>
+  <div class="dark">
+    <img src="assets/banner-dark.svg" alt="Dark banner">
+    <img src="assets/numbers-dark.svg" alt="Dark numbers card" style="max-width:880px;margin-top:16px">
+  </div>
+</body>
+</html>
