@@ -30,6 +30,10 @@
 
 ---
 
+# Aditya Kumar Jha — Geoinformatics, GNSS and Geodesy
+
+[Explore my geoinformatics and geodesy expertise guide](https://adityagis.github.io/Portfolio/pages/notes/geoinformatics-geodesy.html): GNSS CORS processing, high precision levelling, Python GIS automation, LiDAR, remote sensing and GeoAI, with links to project case studies.
+
 ## Hi, I'm Aditya 👋
 
 I'm **Aditya Kumar Jha**, a **GIS engineer** at **Survey of India** (Geodetic & Research Branch, Dehradun). I work where geodesy meets code: I take raw spatial data and automate everything between the data and the decision.
