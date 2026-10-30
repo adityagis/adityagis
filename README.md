@@ -41,7 +41,7 @@ I'm **Aditya Kumar Jha**, a **GIS engineer** at **Survey of India** (Geodetic & 
 - 🛰️ **GNSS & geodesy:** I process GNSS CORS data from **1023+ reference stations** with GAMIT/GLOBK and PRIDE PPP-AR, and High Precision Levelling data for India's national vertical datum.
 - 🐍 **Python automation:** my scripts cut GNSS processing from **7 days to 3 days per station**, and a month of levelling analysis to **one day**, with QA/QC (Tau test, global statistical validation) built in.
 - 🌊 **LiDAR & remote sensing:** at **DRDO** (DGRE, Chandigarh) I analysed ~3 million LiDAR points and 32 hyperspectral bands for flood inundation and terrain vulnerability models.
-- 🧭 **Consulting Head at Uday GeoAnalytics Consultancy:** building GeoAI products for India: rooftop solar, village flood alerts, land use classification, borewell prediction and land records on WhatsApp.
+- 🧭 **Consulting Head at [Uday GeoAnalytics Consultancy](https://ugaconsult.com/):** building GeoAI products for India: rooftop solar ([SolarSight](https://solarsight.in/)), village flood alerts, land use classification, borewell prediction and land records on WhatsApp.
 - 🎓 B.Tech in **GeoInformatics** from **NSUT Delhi** (2025). Founded the NSUT Geospatial Technology Club (200+ members).
 - 🤝 Open to **research roles, geospatial consulting and startups** working on hard spatial problems. [Get in touch →](https://adityagis.github.io/Portfolio/pages/contact.html)
 
